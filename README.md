@@ -1,6 +1,6 @@
 ![Build Status](https://api.travis-ci.org/Arkweid/lefthook.svg?branch=master)
 
-# Lefthook
+# Lefthook Testing
 
 > The fastest polyglot Git hooks manager out there
 
